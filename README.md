@@ -56,10 +56,10 @@ Durante o desenvolvimento deste projeto, foram utilizadas as seguintes ferrament
 
 Gostaríamos de agradecer e destacar a incrível equipe de desenvolvedores que contribuíram para a construção deste projeto:
 
-- @Taline Chuman
-- Hong Li
-- Gabriel Pereira
-- Pedro Henrique
+- <a href="https://github.com/talinechuman" target="blank">Taline Chuman</a>
+- <a href="https://github.com/hongllqi" target="blank">Hong Li</a>
+- <a href="https://github.com/ebionarduche" target="blank">Ebio Narduche</a>
+- <a href="https://github.com/pedro-hc" target="blank">Pedro Henrique</a>
 
 ## Próximos Passos
 
